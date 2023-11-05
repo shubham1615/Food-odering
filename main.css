@@ -388,9 +388,9 @@ button[class ^= navbar]:hover{
 
 /* banner one section */
 .banner-one{
-    background: -webkit-gradient(linear, left top, left bottom, from(rgba(250, 64, 32, 0.9)), to(rgba(253, 47, 28, 0.85))), url('../images/about.jfif') top/cover no-repeat;
-    background: -o-linear-gradient(rgba(254, 30, 18, 0.9), rgba(244, 55, 52, 0.85)), url('../images/about.jfif') top/cover no-repeat;
-    background: linear-gradient(rgba(254, 57, 57, 0.9), rgba(0, 90, 213, 0.85)), url('../images/about.jfif') top/cover no-repeat;
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(250, 64, 32, 0.9)), to(rgba(253, 47, 28, 0.85))), url('../about.jfif') top/cover no-repeat;
+    background: -o-linear-gradient(rgba(254, 30, 18, 0.9), rgba(244, 55, 52, 0.85)), url('../about.jfif') top/cover no-repeat;
+    background: linear-gradient(rgba(254, 57, 57, 0.9), rgba(0, 90, 213, 0.85)), url('../about.jfif') top/cover no-repeat;
     height: 480px;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -452,9 +452,9 @@ button[class ^= navbar]:hover{
 
 /* banner two section */
 .banner-two{
-    background: -webkit-gradient(linear, left top, left bottom, from(rgba(244, 36, 9, 0.9)), to(rgba(251, 44, 29, 0.85))), url('../images/banner.png') top/cover no-repeat;
-    background: -o-linear-gradient(rgba(213, 14, 0, 0.9), rgba(232, 73, 61, 0.85)), url('../images/banner.png') top/cover no-repeat;
-    background: linear-gradient(rgba(242, 81, 49, 0.9), rgba(0, 90, 213, 0.85)), url('../images/banner.png') top/cover no-repeat;
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(244, 36, 9, 0.9)), to(rgba(251, 44, 29, 0.85))), url('../banner.png') top/cover no-repeat;
+    background: -o-linear-gradient(rgba(213, 14, 0, 0.9), rgba(232, 73, 61, 0.85)), url('../banner.png') top/cover no-repeat;
+    background: linear-gradient(rgba(242, 81, 49, 0.9), rgba(0, 90, 213, 0.85)), url('../banner.png') top/cover no-repeat;
     padding: 13.6rem 0;
 }
 .banner-two-left img{
@@ -519,9 +519,9 @@ button[class ^= navbar]:hover{
     margin-top: 14rem;
 }
 .package-service{
-    background: -webkit-gradient(linear, left top, left bottom, from(rgba(213, 0, 0, 0.85)), to(rgba(248, 52, 13, 0.95))), url('../images/f1.jpg') center/cover no-repeat;
-    background: -o-linear-gradient(rgba(185, 21, 3, 0.85), rgba(213, 32, 0, 0.95)), url('../images/f1.jpg') center/cover no-repeat;
-    background: linear-gradient(rgba(0, 80, 213, 0.85), rgba(213, 11, 0, 0.95)), url('../images/f1.jpg') center/cover no-repeat;
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(213, 0, 0, 0.85)), to(rgba(248, 52, 13, 0.95))), url('../f1.jpg') center/cover no-repeat;
+    background: -o-linear-gradient(rgba(185, 21, 3, 0.85), rgba(213, 32, 0, 0.95)), url('../f1.jpg') center/cover no-repeat;
+    background: linear-gradient(rgba(0, 80, 213, 0.85), rgba(213, 11, 0, 0.95)), url('../f1.jpg') center/cover no-repeat;
 }
 .package-service-head{
     color: var(--light-color);
